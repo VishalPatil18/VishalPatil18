@@ -1,4 +1,4 @@
-### Hi there, I'm Vishal - the [SpecTEviL](https://github.com/SpecTEviL) 👋
+### Hi there, I'm Vishal - the  [SpecTEviL](https://github.com/SpecTEviL) 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/VishalPatil1810?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
@@ -29,10 +29,5 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
-<br />
-
 ---
-
-
