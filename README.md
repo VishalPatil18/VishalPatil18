@@ -34,3 +34,19 @@
 <br />
 
 ---
+
+### 💻  Latest Projects
+
+<!-- Projects:START -->
+- [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
+- [EviL Blogs](https://github.com/SpecTEviL/TSF-Grip-Task-1)
+<!-- Projects:END -->
+
+➡️ [more projects...](https://github.com/SpecTEviL)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="SpecTEviL's GitHub Stats" src="https://github-readme-stats.spectevil.vercel.app/api?username=SpecTEviL&show_icons=true&hide_border=true" />
+
+</details>
