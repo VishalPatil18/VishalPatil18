@@ -44,9 +44,16 @@
 
 ➡️ [more projects...](https://github.com/SpecTEviL)
 
+### 💻  UI/UX Designs
+
+<!-- UI/UX:START -->
+- [Drop App](https://github.com/SpecTEviL/TSF-Grip-Task-1)
+- [My Portfolio Site](https://github.com/SpecTEviL/TSF-Grip-Task-1)
+<!-- UI/UX:END -->
+
 <details>
   <summary>:zap: GitHub Stats</summary>
-
+  [![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=SpecTEviL)](https://github.com/SpecTEviL/github-readme-stats)
   <img align="left" alt="SpecTEviL's GitHub Stats" src="https://github-readme-stats.spectevil.vercel.app/api?username=SpecTEviL&show_icons=true&hide_border=true" />
 
 </details>
