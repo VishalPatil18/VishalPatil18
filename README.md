@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋 there, I'm Vishal - the </h1>
-[SpecTEviL](https://github.com/SpecTEviL)
-<h3 align="center">A passionate developer, an Electrical Engineer in making, UI/UX designer and a Coder by passion</h3>
+<h1 align="center">Hi 👋 there, I'm Vishal - the <a href="https://github.com/SpecTEviL">SpecTEviL</a></h1>
+<h2 align="center">I'm a passionate Developer, an Electrical Engineer in making, UI/UX designer and a Coder by passion</h2>
 
 <p align="center"> <a href="https://twitter.com/vishalpatil1810" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a> </p>
-
-## I'm a Electrical Engineer, Developer, UI/UX designer!!
 
 - 🥇 I just created my first ML Project: [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)!
 - 📚 I’m currently learning everything😂
