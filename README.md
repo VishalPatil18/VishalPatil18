@@ -1,3 +1,4 @@
+<p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>
 <h1 align="center">Hi 👋 there, I'm Vishal - the <a href="https://github.com/SpecTEviL">SpecTEviL</a></h1>
 <h2 align="center">I'm a passionate Developer, a UI/UX designer and an Electrical Engineer in making</h2>
 
