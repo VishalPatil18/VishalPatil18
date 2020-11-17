@@ -50,7 +50,7 @@
 - [EviL Blogs](https://github.com/SpecTEviL/TSF-Grip-Task-1)
 <!-- Projects:END -->
 
-➡️ [more projects...](https://github.com/SpecTEviL)
+➡️ [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
 ### 💻  UI/UX Designs
 
