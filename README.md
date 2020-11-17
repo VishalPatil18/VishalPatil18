@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Vishal - the [SpecTEviL](https://github.com/SpecTEviL) 👋</h1>
+<h1 align="center">Hi 👋 there, I'm Vishal - the </h1> [SpecTEviL](https://github.com/SpecTEviL)
 <h3 align="center">A passionate developer, an Electrical Engineer in making, UI/UX designer and a Coder by passion</h3>
 
 <p align="center"> <a href="https://twitter.com/vishalpatil1810" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a> </p>
@@ -9,8 +9,8 @@
 - 📚 I’m currently learning everything😂
 - 💬 Ask me about **Python, C++**
 - 📫 How to reach me **vishalrp18100@gmail.com**
-- 💻 All of my projects are available at [https://github.com/SpecTEviL](https://github.com/SpecTEviL)
-- 📄 Know about my Resume [http://bit.ly/VishalPatilResume](http://bit.ly/VishalPatilResume)
+- 💻 All of my Projects are available at [Here!](https://github.com/SpecTEviL)
+- 📄 Know about my [Resume](http://bit.ly/VishalPatilResume)
 - 🥅  My Goals : Contribute more to Open Source projects
 - 📱 More : I am also a rookie UI/UX designer
 - ⚡ Fun fact : **I'm also a good Chess player ♟**
