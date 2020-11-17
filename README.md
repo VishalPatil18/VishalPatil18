@@ -6,6 +6,8 @@
 
 - 🥇 I just created my first ML Project: [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)!
 - 📚 I’m currently learning everything😂
+- 💬 Ask me about **Python, C++**
+- 📫 How to reach me **vishalrp18100@gmail.com**
 - 💻 All of my projects are available at [https://github.com/SpecTEviL](https://github.com/SpecTEviL)
 - 📄 Know about my Resume [http://bit.ly/VishalPatilResume](http://bit.ly/VishalPatilResume)
 - 🥅  My Goals : Contribute more to Open Source projects
