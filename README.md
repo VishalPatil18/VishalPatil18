@@ -10,7 +10,6 @@
 - 💻 All of my Projects are available at [Here!](https://github.com/SpecTEviL)
 - 📄 Know about my [Resume](http://bit.ly/VishalPatilResume)
 - 🥅  My Goals : Contribute more to Open Source projects
-- 📱 More : I am also a rookie UI/UX designer
 - ⚡ Fun fact : **I'm also a good Chess player ♟**
 
 <h3 align="left">Connect with me:</h3>
