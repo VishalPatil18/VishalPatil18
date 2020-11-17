@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Vishal - the  [SpecTEviL](https://github.com/SpecTEviL) 👋</h1>
+<h1 align="center">Hi there, I'm Vishal - the [SpecTEviL](https://github.com/SpecTEviL) 👋</h1>
 <h3 align="center">A passionate developer, an Electrical Engineer in making, UI/UX designer and a Coder by passion</h3>
 
-<p align="centre"> <a href="https://twitter.com/vishalpatil1810" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a> </p>
+<p align="center"> <a href="https://twitter.com/vishalpatil1810" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a> </p>
 
 ## I'm a Electrical Engineer, Developer, UI/UX designer!!
 
