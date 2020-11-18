@@ -43,7 +43,7 @@
   
 ---
 
-### 💻  Latest Projects
+### 💻 My Latest Projects
 
 <!-- Projects:START -->
 - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
@@ -52,7 +52,7 @@
 
 ➡️ [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
-### 💻  UI/UX Designs
+### 💻 My UI/UX Designs
 
 <!-- UI/UX:START -->
 - [Drop App](https://github.com/SpecTEviL/TSF-Grip-Task-1)
