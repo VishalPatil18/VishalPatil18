@@ -9,7 +9,7 @@
 - 💬 Ask me about **Python, C++**
 - 📫 How to reach me **vishalrp18100@gmail.com**
 - 💻 All of my Projects are available at [Here!](https://github.com/SpecTEviL?tab=repositories)
-- 📄 Know about my [Resume](http://bit.ly/VishalPatilResume)
+- 📄 Know about my [Resume](https://bit.ly/Resume_VishalPatil)
 - 🥅  My Goals : Contribute more to Open Source projects
 - ⚡ Fun fact : **I'm also a good Chess player ♟**
 
