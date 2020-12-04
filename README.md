@@ -47,7 +47,6 @@
 
 <!-- Projects:START -->
 - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
-- [EviL Blogs](https://github.com/SpecTEviL/TSF-Grip-Task-1)
 <!-- Projects:END -->
 
 ➡️ [more projects...](https://github.com/SpecTEviL?tab=repositories)
