@@ -2,7 +2,8 @@
 <h2 align="center">I'm a passionate Developer, a UI/UX designer and an Electrical Engineer in making</h2>
 <p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>
 
-<p align="center"> <a href="https://twitter.com/vishalpatil1810" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a> </p>
+<p align="center"> <a href="https://twitter.com/vishalpatil1810" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a> 
+![](https://komarev.com/ghpvc/?username=gitkp11&color=orange&style=plastic)</p>
 
 - 🥇 I just created my first ML Project: [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)!
 - 📚 I’m currently learning everything😂
