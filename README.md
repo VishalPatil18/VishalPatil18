@@ -2,7 +2,16 @@
 <h2 align="center">I'm a passionate Developer, a UI/UX designer and an Electrical Engineer in making</h2>
 <p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>
 
-<p align="center"> <a href="https://twitter.com/vishalpatil1810" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a></p>
+<p><a href="https://twitter.com/vishalpatil1810" align="left" target="blank"><img src="https://img.shields.io/twitter/follow/vishalpatil1810?logo=twitter&style=for-the-badge" alt="vishalpatil1810" /></a>
+<p align="right">
+<a href="https://twitter.com/vishalpatil1810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vishalpatil1810" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vishal-patil-075b391a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishal-patil-075b391a4" height="30" width="40" /></a>
+<a href="https://instagram.com/_vishal_._lahsiv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_vishal_._lahsiv_" height="30" width="40" /></a>
+<a href="https://dribbble.com/spect_evil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="spect_evil" height="30" width="40" /></a>
+<a href="https://www.behance.net/vishalpatil4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vishalpatil4" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vishalrpatil1811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishalrpatil1811" height="30" width="40" /></a>
+</p>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=SpecTEviL&color=orange&style=plastic)
 
@@ -15,15 +24,6 @@
 - 🥅  My Goals : Contribute more to Open Source projects
 - ⚡ Fun fact : **I'm also a good Chess player ♟**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishalpatil1810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vishalpatil1810" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal-patil-075b391a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishal-patil-075b391a4" height="30" width="40" /></a>
-<a href="https://instagram.com/_vishal_._lahsiv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_vishal_._lahsiv_" height="30" width="40" /></a>
-<a href="https://dribbble.com/spect_evil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="spect_evil" height="30" width="40" /></a>
-<a href="https://www.behance.net/vishalpatil4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vishalpatil4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishalrpatil1811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishalrpatil1811" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools:
 
