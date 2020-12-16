@@ -3,7 +3,7 @@
 <p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>
 
 <p><a title="Twitter Profile" href="https://twitter.com/vishalpatil1810"><img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" height="38" /></a>
-  <a title="LinkedIn Profile" href="linkedin.com/in/vishalrameshpatil"><img alt="MY LinkedIn Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/linkedin.png" height="38" /></a>
+  <a title="LinkedIn Profile" href="https://linkedin.com/in/vishalrameshpatil"><img alt="MY LinkedIn Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/linkedin.png" height="38" /></a>
   <a title="Instagram Profile" href="https://www.instagram.com/_vishal_._lahsiv_/"><img alt="MY Instagram Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/instagram.png" height="38" /></a>
   <a title="Youtube Profile" href="https://www.youtube.com/channel/UCuLhl2ErufGwLFJlHKmBPGA
 "><img alt="MY Youtube Channel" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/youtube.png" height="38" /></a>
