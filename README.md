@@ -51,7 +51,7 @@
 - [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
 <!-- Projects:END -->
 
-➡️ [more projects...](https://github.com/SpecTEviL?tab=repositories)
+- [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
 ---
 
