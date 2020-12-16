@@ -2,15 +2,15 @@
 <h2 align="center">I'm a passionate Developer, a UI/UX designer and an Electrical Engineer in making</h2>
 <p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>
 
-<p><a title="Twitter Profile" href="https://twitter.com/vishalpatil1810"><img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" width="130" /></a>
-<p align="right"><a href="https://twitter.com/vishalpatil1810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="vishalpatil1810" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal-patil-075b391a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishal-patil-075b391a4" height="30" width="40" /></a>
-<a href="https://instagram.com/_vishal_._lahsiv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_vishal_._lahsiv_" height="30" width="40" /></a>
-<a href="https://dribbble.com/spect_evil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="spect_evil" height="30" width="40" /></a>
-<a href="https://www.behance.net/vishalpatil4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="vishalpatil4" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishalrpatil1811" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="vishalrpatil1811" height="30" width="40" /></a></p>
+<p><a title="Twitter Profile" href="https://twitter.com/vishalpatil1810"><img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" width="100" /></a>
+  <a title="LinkedIn Profile" href="linkedin.com/in/vishalrameshpatil"><img alt="MY LinkedIn Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/linkedin.png" width="100" /></a>
+  <a title="Instagram Profile" href="https://www.instagram.com/_vishal_._lahsiv_/"><img alt="MY Instagram Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/instagram.png" width="100" /></a>
+  <a title="Youtube Profile" href="https://www.youtube.com/channel/UCuLhl2ErufGwLFJlHKmBPGA
+"><img alt="MY Youtube Channel" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/youtube.png" width="100" /></a>
+  <a title="Hackerrank Profile" href="https://www.hackerrank.com/vishalrpatil1811"><img alt="MY Hackerrank Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/hackerrank.png" width="100" /></a>
+  <a title="Devto Profile" href="https://dev.to/vishalrpatil1810"><img alt="MY Devto Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/devto.png" width="100" /></a>
 </p>
-
+  
 ![](https://komarev.com/ghpvc/?username=SpecTEviL&color=orange&style=plastic)
 
 - 🥇 I just created my first ML Project: [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)!
