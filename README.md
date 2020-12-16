@@ -22,6 +22,7 @@
 - 🥅  My Goals : Contribute more to Open Source projects
 - ⚡ Fun fact : **I'm also a good Chess player ♟**
 
+---
 
 ### Languages and Tools:
 
@@ -40,23 +41,19 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>     <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
   </p>
-  
+
 ---
 
 ### 💻 My Latest Projects
 
 <!-- Projects:START -->
 - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
+- [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
 <!-- Projects:END -->
 
 ➡️ [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
-### 💻 My UI/UX Designs
-
-<!-- UI/UX:START -->
-- [Drop App](https://github.com/SpecTEviL/TSF-Grip-Task-1)
-- [My Portfolio Site](https://github.com/SpecTEviL/TSF-Grip-Task-1)
-<!-- UI/UX:END -->
+---
 
 ### 💻  My Github Logs
 
