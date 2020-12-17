@@ -49,9 +49,9 @@
 <!-- Projects:START -->
 - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
 - [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
-<!-- Projects:END -->
 - [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
+<!-- Projects:END -->
 ---
 
 ### 💻  My Github Logs
