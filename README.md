@@ -14,17 +14,14 @@
 ![](https://komarev.com/ghpvc/?username=SpecTEviL&color=orange&style=plastic)
 
 - 🥇 I just created my first ML Project: [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)!
-- 📚 I’m currently learning everything😂
 - 💬 Ask me about **Python, C++**
+- 💻 Checkout my portfolio [Here!](https://spectevil.github.io/)
 - 📫 How to reach me **vishalrp18100@gmail.com**
-- 💻 All of my Projects are available at [Here!](https://github.com/SpecTEviL?tab=repositories)
-- 📄 Know about my [Resume](https://bit.ly/Resume_VishalPatil)
-- 🥅  My Goals : Contribute more to Open Source projects
-- ⚡ Fun fact : **I'm also a good Chess player ♟**
+- ⚡ Fun fact : **I'm also a good Chess player. Challange me!♟**
 
 ---
 
-### Languages and Tools:
+### My Languages and Tools:
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -46,12 +43,10 @@
 
 ### 💻 My Latest Projects
 
-<!-- Projects:START -->
 - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
 - [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
 - [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
-<!-- Projects:END -->
 ---
 
 ### 💻  My Github Logs
