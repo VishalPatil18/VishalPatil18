@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 there, I'm Vishal - the <a href="https://github.com/SpecTEviL">SpecTEviL</a></h1>
 <h2 align="center">I'm a passionate Developer, a UI/UX designer and an Electrical Engineer in making</h2>
 <h3 align="center">"Living it my waY"</h3>
-<p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>
+<!--<p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>-->
 
 <p><a title="Twitter Profile" href="https://twitter.com/vishalpatil1810"><img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" height="35" /></a>
   <a title="LinkedIn Profile" href="https://linkedin.com/in/vishalrameshpatil"><img alt="MY LinkedIn Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/linkedin.png" height="35" /></a>
