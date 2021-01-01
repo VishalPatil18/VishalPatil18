@@ -51,4 +51,4 @@
 
 ### 💻  My Github Logs
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spectevil&show_icons=true&locale=en" alt="spectevil" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spectevil&show_icons=true&locale=en&layout=compact" alt="spectevil" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=spectevil&show_icons=true&locale=en" alt="spectevil" /><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=spectevil&show_icons=true&locale=en&layout=compact" alt="spectevil" /></p>
