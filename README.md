@@ -25,18 +25,21 @@
 ### My Languages and Tools:
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="C" title="C" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" title="Flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" title="SQLite3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" title="Javascript" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" title="Bootstrap 4" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" title="Adobe XD" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="40" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/c.png" alt="C" title="C" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/c++.png" alt="cplusplus" title="C++" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/python.png" alt="python" title="Python" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/flaskdark.png" alt="flask" title="Flask" height="60"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/pandas.png" alt="pandas" title="Pandas" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/jupyter.png" alt="jupyter" title="Jupyter" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/sql.png" alt="sqlite" title="SQLite3" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/html.png" title="HTML5" alt="html5" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/css.png" alt="css3" title="CSS3" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/javascript.png" alt="javascript" title="Javascript" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/git.png" alt="git" title="Git" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/bootstrap.png" alt="bootstrap" title="Bootstrap 4" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/adobexd.png" alt="xd" title="Adobe XD" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/figma.png" alt="figma" title="Figma" height="40"/>
+  
   </p>
 
 ---
