@@ -25,11 +25,10 @@
 ### My Languages and Tools:
 
 <p align="left">
-  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/c.png" alt="C" title="C" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/c.png" alt="C" title="C" height="45"/>
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/c++.png" alt="cplusplus" title="C++" height="40"/>
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/python.png" alt="python" title="Python" height="40"/>
-  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/flaskdark.png" alt="flask" title="Flask" height="60"/>
-  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/pandas.png" alt="pandas" title="Pandas" height="40"/>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/flaskdark.png" alt="flask" title="Flask" height="40"/>
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/jupyter.png" alt="jupyter" title="Jupyter" height="40"/>
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/sql.png" alt="sqlite" title="SQLite3" height="40"/>
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/html.png" title="HTML5" alt="html5" height="40"/>
