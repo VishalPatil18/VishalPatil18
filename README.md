@@ -14,7 +14,6 @@
   
 ![](https://komarev.com/ghpvc/?username=SpecTEviL&color=orange&style=plastic)
 
-- 🥇 I just created my first ML Project: [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)!
 - 💬 Ask me about **Python, C++**
 - 💻 Checkout my portfolio [Here!](https://spectevil.github.io/)
 - 📫 How to reach me **vishalrp18100@gmail.com**
@@ -46,6 +45,7 @@
 ### 💻 My Latest Projects
 
 - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
+- [Flask CRUDapp](https://github.com/SpecTEviL/CRUDapp)
 - [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
 - [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
