@@ -52,10 +52,12 @@
 ---
 
 ### 💻  My Github Logs
-
+<!--
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=SpecTEviL&theme=radical&show_icons=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpecTEviL&theme=radical" />
-  
-<!--
+  -->
+
 ![Metrics](https://metrics.lecoq.io/SpecTEviL?template=classic&base.community=0&base.repositories=0&followup=1&isocalendar=1&languages=1&pagespeed=1&stars=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=full-year&stars.limit=3&config.timezone=Asia%2FCalcutta&config.animated=true)
+
+<!--
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=spectevil&show_icons=true&locale=en" alt="spectevil" /><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=spectevil&show_icons=true&locale=en&layout=compact" alt="spectevil" /></p>-->
