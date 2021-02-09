@@ -17,7 +17,7 @@
 - 💬 Ask me about **Python, C++**
 - 💻 Checkout my portfolio [Here!](https://spectevil.github.io/)
 - 📫 How to reach me **vishalrp18100@gmail.com**
-- ⚡ Fun fact : **I'm also a good Chess player. Challange me!♟**
+- ⚡ Fun fact : **I'm also a good Chess♟** player. Challange me!
 
 ---
 
