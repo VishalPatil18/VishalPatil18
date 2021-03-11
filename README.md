@@ -53,8 +53,10 @@
 
 ### 💻  My Github Logs
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=SpecTEviL&theme=radical&show_icons=true" />
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SpecTEviL&theme=radical&show_icons=true" />
+  <img height="180em" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SpecTEviL" alt="SpecTEviL" />
+</p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpecTEviL&theme=radical" />
 <p align="center" width="80%">
   <img width="80%" src="https://metrics.lecoq.io/SpecTEviL?template=classic&base.community=0&base.repositories=0&followup=1&isocalendar=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta&config.animated=true" />
