@@ -6,8 +6,8 @@
 <p><a title="Twitter Profile" href="https://twitter.com/vishalpatil1810"><img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" height="35" /></a>
   <a title="LinkedIn Profile" href="https://linkedin.com/in/vishalrameshpatil"><img alt="MY LinkedIn Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/linkedin.png" height="35" /></a>
 <!--   <a title="Instagram Profile" href="https://www.instagram.com/_vishal_._lahsiv_/"><img alt="MY Instagram Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/instagram.png" height="35" /></a> -->
-  <a title="Youtube Profile" href="https://www.youtube.com/channel/UCuLhl2ErufGwLFJlHKmBPGA
-"><img alt="MY Youtube Channel" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/youtube.png" height="35" /></a>
+<!--   <a title="Youtube Profile" href="https://www.youtube.com/channel/UCuLhl2ErufGwLFJlHKmBPGA
+"><img alt="MY Youtube Channel" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/youtube.png" height="35" /></a> -->
   <a title="Hackerrank Profile" href="https://www.hackerrank.com/vishalrpatil1811"><img alt="MY Hackerrank Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/hackerrank.png" height="35" /></a>
 <!--   <a title="Devto Profile" href="https://dev.to/vishalrpatil1810"><img alt="MY Devto Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/devto.png" height="35" /></a> -->
 </p>
@@ -44,7 +44,7 @@
 
 ### 💻 My Latest Projects
 
-- [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)
+<!-- - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)-->
 - [Flask CRUDapp](https://github.com/SpecTEviL/CRUDapp)
 - [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
 - [more projects...](https://github.com/SpecTEviL?tab=repositories)
