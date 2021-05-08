@@ -54,7 +54,7 @@
 ### 💻  My Github Logs
 
 <p>
-<!--   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SpecTEviL&theme=radical&show_icons=true" /> -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SpecTEviL&theme=radical&show_icons=true" />
   <img height="160em" float="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SpecTEviL" alt="SpecTEviL" />
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpecTEviL&theme=radical" />
