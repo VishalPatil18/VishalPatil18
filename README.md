@@ -45,8 +45,9 @@
 ### 💻 My Latest Projects
 
 <!-- - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)-->
-- [Flask CRUDapp](https://github.com/SpecTEviL/CRUDapp)
+- [Stockrr - A Stock Price Predictor](https://github.com/SpecTEviL/Stockrr-App)
 - [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
+- [GPA Calculator](https://github.com/SpecTEviL/GPA-Calculator)
 - [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
 ---
