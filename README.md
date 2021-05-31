@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋 there, I'm Vishal - the <a href="http://spectevil.github.io">SpecTEviL</a></h1>
 <h2 align="center">I'm a Passionate Developer and an Electrical Engineer in making</h2>
 <h3 align="center">"Living it my waY"</h3>
-<!--<p><img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/Dashboard%20Final.jpg" alt="SpecTEviL" /></p>-->
 
 <p><a title="Twitter Profile" href="https://twitter.com/vishalpatil1810"><img alt="MY Twitter Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/twitter.png" height="35" /></a>
   <a title="LinkedIn Profile" href="https://linkedin.com/in/vishalrameshpatil"><img alt="MY LinkedIn Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/linkedin.png" height="35" /></a>
-<!--   <a title="Instagram Profile" href="https://www.instagram.com/_vishal_._lahsiv_/"><img alt="MY Instagram Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/instagram.png" height="35" /></a> -->
-<!--   <a title="Youtube Profile" href="https://www.youtube.com/channel/UCuLhl2ErufGwLFJlHKmBPGA
-"><img alt="MY Youtube Channel" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/youtube.png" height="35" /></a> -->
   <a title="Hackerrank Profile" href="https://www.hackerrank.com/vishalrpatil1811"><img alt="MY Hackerrank Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/hackerrank.png" height="35" /></a>
-<!--   <a title="Devto Profile" href="https://dev.to/vishalrpatil1810"><img alt="MY Devto Profile" src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/devto.png" height="35" /></a> -->
 </p>
   
 ![](https://komarev.com/ghpvc/?username=SpecTEviL&color=orange&style=plastic)
@@ -36,17 +31,15 @@
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/git.png" alt="git" title="Git" height="40"/>
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/bootstrap.png" alt="bootstrap" title="Bootstrap 4" height="40"/>
   <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/adobexd.png" alt="xd" title="Adobe XD" height="40"/>
-  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/figma.png" alt="figma" title="Figma" height="40"/>
-  
-  </p>
+  <img src="https://github.com/SpecTEviL/SpecTEviL/blob/main/icons/figma.png" alt="figma" title="Figma" height="40"/>  
+</p>
 
 ---
 
 ### 💻 My Latest Projects
 
-<!-- - [Score Predictor](https://github.com/SpecTEviL/TSF-Grip-Task-1)-->
+- [Fashion-o-phile](https://fashion-o-phile.netlify.app)
 - [Stockrr - A Stock Price Predictor](https://github.com/SpecTEviL/Stockrr-App)
-- [Blogger WebApp](https://github.com/SpecTEviL/Blogger-by-SpecTEviL)
 - [GPA Calculator](https://github.com/SpecTEviL/GPA-Calculator)
 - [more projects...](https://github.com/SpecTEviL?tab=repositories)
 
