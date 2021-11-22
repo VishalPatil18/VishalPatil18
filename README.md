@@ -3,7 +3,7 @@
 <br>
 
 - 👨🏻‍💻 I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in">**VJTI**</a>
-- 💻 Checkout my portfolio [Here!](https://vishalpatil18.github.io/)
+- 💻 Checkout my portfolio [Here!](https://vishalpatil.me/)
 - 📫 How to reach me **vishalrp18100@gmail.com**
 - ⚡ Fun fact : **I'm also a good Chess♟ player, [Challenge me](https://www.chess.com/member/spect_evil)!**
 
