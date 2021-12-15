@@ -42,7 +42,7 @@
   <a href="https://twitter.com/vishalpatil1810" target="blank"><img align="center" src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/twitter.svg" alt="Vishal's Twitter" height="30" width="40" /></a>
   <a href="https://vishalpatil18.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/gaming.png" alt="Vishal's Portfolio" height="30" width="40" /></a>
   <a href="https://medium.com/@vishalpatil18" target="blank"><img align="center" src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/medium.svg" alt="Vishal's Medium" height="30" width="40" /></a>
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/dev_to.svg" alt="Vishal's Dev_to" height="30" width="40" /></a>
+  <a href="https://vishalpatil.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/hashnode.png" alt="Vishal's Hashnode Blog" height="30" width="40" /></a>
 </p>
 
 
