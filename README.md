@@ -17,14 +17,12 @@
   <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/html5.svg" alt="HTML" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/css3.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/javascript.svg" alt="JS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/djangoproject.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/flask.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/react.svg" alt="ReactJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/vue.svg" alt="VueJS" width="40" height="40"/>
+<!--   <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/djangoproject.svg" alt="Django" width="40" height="40"/> -->
+  <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/flask.svg" alt="Flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/mysql.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/twilio.svg" alt="Twilio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/tailwindcss.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/VishalPatil18/VishalPatil18/main/icons/tailwindcss.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
 
 
