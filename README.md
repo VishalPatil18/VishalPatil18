@@ -78,7 +78,7 @@
   <a href="mailto:vishalrp18100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/vishalrp18100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="discordapp.com/users/VishalPatil#3640" target="_blank">
+  <a href="https://discordapp.com/users/VishalPatil#3640" target="_blank">
     <img src="https://img.shields.io/badge/VishalPatil3640-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
 </p>
