@@ -1,14 +1,13 @@
 <h1 align="center">Hello there 👋 I'm Vishal</h1>
 
 <br>
-
-- 👨🏻‍💻 I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">**VJTI**</a>
-- 💻 Checkout my portfolio <a href="https://vishalpatil.me/" target="_blank">Here!</a>
-- 📮 Currently I'm working on <a href="https://github.com/VishalPatil18/VISact" target="blank">VISact</a>
+<p align="center">
+I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">VJTI Mumbai</a>.<br> To know more about me checkout my portfolio from <a href="https://vishalpatil.me/" target="_blank">here</a>! <br>Currently I'm working on <a href="https://github.com/VishalPatil18/VISact" target="blank">VISact</a> which is a react component library.
+</p>
 
 <br>
 
-<h2>🛠 Skills</h2>
+<h2 align="center">🛠 Skills 🛠</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
@@ -24,7 +23,7 @@
 
 <br>
 
-<h2>🗂️ My Latest Projects</h2>
+<h2 align="center">🗂️ My Latest Projects 🗂️</h2>
 <p align="center">
   <a href="https://github.com/VishalPatil18/VISact" align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=VISact&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISact" />
@@ -49,7 +48,7 @@
 
 <br>
 
-<h2>📊  My Github Logs</h2>
+<h2 align="center">📊 My Github Logs 📊</h2>
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VishalPatil18&show_icons=true&locale=en" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPatil18" alt="VishalPatil18" />
@@ -60,6 +59,7 @@
 
 <br>
 
+<h2 align="center">🚜 Connect with Me 🚜</h2>
 <p align="center">
   <a href="https://vishalpatil.me/" target="_blank">
     <img src="https://img.shields.io/badge/vishalpatil.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="portfolio" />
