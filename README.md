@@ -2,10 +2,9 @@
 
 <br>
 
-- 👨🏻‍💻 I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in">**VJTI**</a>
-- 💻 Checkout my portfolio [Here!](https://vishalpatil.me/)
-- 📮 Currently I'm working on [VISact](https://github.com/VishalPatil18/VISact)
-- ⚡ Fun fact : **I'm also a good Chess♟ player, [Challenge me](https://www.chess.com/member/spect_evil)!**
+- 👨🏻‍💻 I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">**VJTI**</a>
+- 💻 Checkout my portfolio <a href="https://vishalpatil.me/" target="_blank">Here!</a>
+- 📮 Currently I'm working on <a href="https://github.com/VishalPatil18/VISact" target="blank">VISact</a>
 
 <br>
 
@@ -62,24 +61,24 @@
 <br>
 
 <p align="center">
-  <a href="https://vishalpatil.me/" target="blank">
+  <a href="https://vishalpatil.me/" target="_blank">
     <img src="https://img.shields.io/badge/vishalpatil.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="portfolio" />
   </a>
-  <a href="https://linkedin.com/in/vishalrameshpatil" target="blank">
+  <a href="https://linkedin.com/in/vishalrameshpatil" target="_blank">
     <img src="https://img.shields.io/badge/vishalrameshpatil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  <a href="https://twitter.com/vishalpatil1810" target="blank">
+  <a href="https://twitter.com/vishalpatil1810" target="_blank">
     <img src="https://img.shields.io/badge/vishalpatil1810-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
-  <a href="https://medium.com/@vishalpatil18" target="blank">
+  <a href="https://medium.com/@vishalpatil18" target="_blank">
     <img src="https://img.shields.io/badge/@vishalpatil18-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
   </a>
-  <a href="https://vishalpatil.hashnode.dev/" target="blank">
+  <a href="https://vishalpatil.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/vishalpatil.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" />
   </a>
-  <a href="mailto:vishalrp18100@gmail.com" target="blank">
+  <a href="mailto:vishalrp18100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/vishalrp18100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-  <a href="discordapp.com/users/VishalPatil#3640" target="blank">
+  <a href="discordapp.com/users/VishalPatil#3640" target="_blank">
     <img src="https://img.shields.io/badge/VishalPatil3640-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
 </p>
