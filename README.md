@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">VJTI Mumbai</a>.<br> To know more about me checkout my portfolio from <a href="https://vishalpatil.me/" target="_blank">here</a>! <br>Currently I'm working on <a href="https://github.com/VishalPatil18/VISact" target="blank">VISact</a> which is a react component library.
+I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">VJTI Mumbai</a>.<br> To know more about me checkout my portfolio from <a href="https://vishalpatil.me/" target="_blank">here</a>! <br>Currently I'm working on <a href="https://github.com/VishalPatil18/REcom" target="blank">RECom</a> which is a Social Media Webapp.
 </p>
 
 <br>
