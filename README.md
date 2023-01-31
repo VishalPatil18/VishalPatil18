@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">VJTI Mumbai</a>.<br> To know more about me checkout my portfolio from <a href="https://vishalpatil.me/" target="_blank">here</a>! <br>Currently I'm working on <a href="https://github.com/VishalPatil18/REcom" target="blank">RECom</a> which is a Social Media Webapp.
+I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">VJTI Mumbai</a>.<br> To know more about me checkout my portfolio from <a href="https://vishalpatil.vercel.app/" target="_blank">here</a>! <br>Currently I'm working on <a href="https://github.com/VishalPatil18/REcom" target="blank">RECom</a> which is a Social Media Webapp.
 </p>
 
 <br>
@@ -26,19 +26,19 @@ I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" targe
 <h2 align="center">🗂️ My Latest Projects 🗂️</h2>
 <p align="center">
   <a href="https://github.com/VishalPatil18/VISact" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=VISact&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=REcom&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISact" />
   </a>
 
   <a href="https://github.com/VishalPatil18/VISKart" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=VISKart&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISKart" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=viskart-react-version&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISKart" />
   </a>
 
   <a href="https://github.com/VishalPatil18/VISQuiz" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=VISQuiz&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISQuiz" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=vistream-react-version&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VIStream" />
   </a>
 
   <a href="https://github.com/VishalPatil18/VISPA-UI-Docs" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=VISPA-UI-Docs&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISPA-UI" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=Portfolio-4.0&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="Portfolio" />
   </a>
 
   <br>
