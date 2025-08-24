@@ -50,8 +50,8 @@ Hello there, I am a Software & AI Engineer in making. I'm a 24 years old Hustler
   <a href="https://vishalpatil.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/vishalpatil.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode" />
   </a>
-  <a href="mailto:vishalrp18100@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/vishalrp18100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  <a href="mailto:vishalpatil.imp@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/vishalpatil.imp@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
   </a>
   <a href="https://discordapp.com/users/VishalPatil#3640" target="_blank">
     <img src="https://img.shields.io/badge/VishalPatil3640-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
