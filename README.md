@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" target="_blank">VJTI Mumbai</a>.<br> To know more about me checkout my portfolio from <a href="https://vishalpatil.vercel.app/" target="_blank">here</a>! <br>Currently I'm working on <a href="https://github.com/VishalPatil18/REcom" target="blank">RECom</a> which is a Social Media Webapp.
+Hello there, I am a Software & AI Engineer in making. I'm a 24 years old Hustler, Learner & Explorer by heart.<br> To know more about me checkout my portfolio <a href="https://vishalpatil.vercel.app/" target="_blank">here</a>! <br><br> Currently I'm working on <a href="https://github.com/VishalPatil18" target="blank">DocuMind</a> which is a document Q&A platform enabling real-time semantic search and context-aware responses from PDF knowledge bases.
 </p>
 
 <br>
@@ -23,32 +23,7 @@ I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" targe
 
 <br>
 
-<h2 align="center">🗂️ My Latest Projects 🗂️</h2>
-<p align="center">
-  <a href="https://github.com/VishalPatil18/VISact" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=REcom&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISact" />
-  </a>
-
-  <a href="https://github.com/VishalPatil18/VISKart" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=viskart-react-version&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VISKart" />
-  </a>
-
-  <a href="https://github.com/VishalPatil18/VISQuiz" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=vistream-react-version&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="VIStream" />
-  </a>
-
-  <a href="https://github.com/VishalPatil18/VISPA-UI-Docs" align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalPatil18&repo=Portfolio-4.0&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" align="center" alt="Portfolio" />
-  </a>
-
-  <br>
-
-  <p align="center"><a href="https://github.com/VishalPatil18?tab=repositories">see all projects...</a></p>
-</p>
-
-<br>
-
-<h2 align="center">📊 My Github Logs 📊</h2>
+<h2 align="center">📊 Stats 📊</h2>
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VishalPatil18&show_icons=true&locale=en" />
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPatil18" alt="VishalPatil18" />
@@ -59,15 +34,15 @@ I'm a Electrical Engineering Undergraduate at <a href="https://vjti.ac.in" targe
 
 <br>
 
-<h2 align="center">🚜 Connect with Me 🚜</h2>
+<h2 align="center">🚜 Socials 🚜</h2>
 <p align="center">
-  <a href="https://vishalpatil.me/" target="_blank">
-    <img src="https://img.shields.io/badge/vishalpatil.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="portfolio" />
+  <a href="https://vishalpatil.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/vishalpatil.vercel.app-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="portfolio" />
   </a>
   <a href="https://linkedin.com/in/vishalrameshpatil" target="_blank">
-    <img src="https://img.shields.io/badge/vishalrameshpatil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/linkedin/vishalrameshpatil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   <a href="https://twitter.com/vishalpatil1810" target="_blank">
-    <img src="https://img.shields.io/badge/vishalpatil1810-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+    <img src="https://img.shields.io/badge/twitter/vishalpatil1810-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
   </a>
   <a href="https://medium.com/@vishalpatil18" target="_blank">
     <img src="https://img.shields.io/badge/@vishalpatil18-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
