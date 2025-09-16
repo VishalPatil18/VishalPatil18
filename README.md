@@ -26,7 +26,7 @@ Hello there, I am a Software & AI Engineer in making. I'm a 24 years old Hustler
 <h2 align="center">📊 Stats 📊</h2>
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VishalPatil18&show_icons=true&locale=en" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPatil18" alt="VishalPatil18" />
+<!--   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalPatil18" alt="VishalPatil18" /> -->
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VishalPatil18&color=orange&style=plastic" alt="bootstrap" height="30"/>
