@@ -53,8 +53,6 @@ Expert in RAG and building chatbots. To know more about me checkout VAi.<br>
 - **[DocuMind](https://github.com/VishalPatil18/DocuMind)** - Document Q&A platform built with LangChain and RAG, reducing irrelevant LLM outputs by 35% via optimized semantic search and custom embeddings.
 - **[Codistant](https://github.com/VishalPatil18/cf_ai_codistant)** - Edge-native AI programming assistant on Cloudflare using Llama 3.3 70B and TypeScript, with real-time SSE streaming and persistent multi-turn histories via Durable Objects and SQLite.
 
-<br>
-
 <h3 align="left">👨‍💻 Languages and Framework's</h3>
 
 - **Languages**<p>
