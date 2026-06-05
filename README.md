@@ -39,7 +39,7 @@ Expert in RAG and building chatbots. To know more about me checkout VAi.<br>
 - [20+ AI Software Applications](https://vishalpatil.vercel.app/build) Built, Deployed and Scaled
 - [3+ Years of Experience](https://vishalpatil.vercel.app/experience) Working with Fortune 500's like Bank of New York (BNY) and PriceWaterhouseCoopers (PwC)
 - [18+ Degrees & Certifications](https://vishalpatil.vercel.app/education) That define my learnings and hands-on experience
-- [10+ Blogs and Articles](https://vishalpatil.vercel.app/blogs) Sharing Knowledge to the community
+- [10+ Blogs and Articles](https://vishalpatil.vercel.app/social) Sharing Knowledge to the community
 
 <h3 align="left">🏆 Achievements</h3>
 
