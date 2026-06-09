@@ -24,15 +24,15 @@ Expert in RAG and building chatbots. To know more about me checkout VAi.<br>
 
 <h3 align="left">💼 What I'm Up To</h3>
 
-- 🤖 **AI Software Engineer** at the **Division of IT, University of Maryland** (Oct 2025 – Present)
+- 🤖 **AI Software Engineer** at the **[Division of IT, University of Maryland](https://it.umd.edu/)** (Oct 2025 – Present)
   - Building an end-to-end Config Evaluation feature to score chatbot configurations on demand via RAGAS.
   - Reduced a manual evaluation workflow to a single click that returns 5 quality metrics in ~2 minutes, accelerating config iteration for the team.
   - Refactored the DocReview platform, reducing code duplication by 70% with 90%+ test coverage
   - Deployed a scalable chatbot inference service connecting GraphQL APIs, PostgreSQL/pgvector, and Neo4j knowledge graphs to improve RAG response speed and lower compute cost
   - Built serverless data-sync pipelines pulling from Congress.gov and Federal Register APIs into DynamoDB
   - Lead QA testing and browser automation with Playwright and Claude Code
-- 🎓 Pursuing a **Master of Engineering in Software Engineering** at UMD (Jan 2025 – Dec 2026, GPA 3.78/4.0)
-- 🏦 Previously **Software Engineer I** at **Bank of New York** and **Technology Consultant Intern** at **PwC**
+- 🎓 Pursuing a **Master of Engineering in Software Engineering** at [**University of Maryland**](https://umd.edu/) (Jan 2025 – Dec 2026, GPA 3.78/4.0)
+- 🏦 Previously **Software Engineer I** at **[Bank of New York - BNY](https://www.bny.com/corporate/global/en.html)** and **Technology Consultant Intern** at **[PricewaterhouseCoopers - PwC](https://www.pwc.com/us/en.html)**
 
 <h3 align="left">📊 Impact</h3>
 
