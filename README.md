@@ -115,7 +115,7 @@ Expert in RAG and building chatbots. To know more about me checkout VAi.<br>
   <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center; max-width:560px; margin:0 auto;">
     <a href="https://vishalpatil.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VAi_Vishal's_Portfolio-red?style=for-the-badge&logo=chatbot&logoColor=white" alt="VAi-link" /></a>
     <a href="https://linkedin.com/in/vishalrameshpatil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=jovian&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:vishalpatil.imp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/vishalpatil.imp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="mailto:hire.vishalpatil@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hire.vishalpatil@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
     <a href="https://hackerrank.com/vishal__patil" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2F8D46?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
     <a href="https://leetcode.com/vishalpatil18" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
     <a href="https://auth.geeksforgeeks.org/user/vishalrpatil" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
